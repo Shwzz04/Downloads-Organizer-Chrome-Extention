@@ -34,7 +34,7 @@ The extension isn't on the Chrome Web Store, so load it manually:
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/Shwzz04/download-organizer.git
+   git clone https://github.com/Shwzz04/Downloads-Organizer-Chrome-Extention.git
    ```
 2. Open `chrome://extensions` in Chrome.
 3. Turn on **Developer mode** (top right).
